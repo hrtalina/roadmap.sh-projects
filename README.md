@@ -5,3 +5,6 @@ A more detailed description of the projects can be found in the README in the pr
 
 ## Project List
 [Single-Page CV](https://github.com/hrtalina/roadmap.sh-projects/tree/main/frontend-projects/01-cv-letter)
+
+## Link to Projects
+[Single-Page CV](https://roadmap.sh/projects/single-page-cv)
