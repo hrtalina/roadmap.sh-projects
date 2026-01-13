@@ -4,7 +4,7 @@ This Repository contains all the projects I used for training from the website [
 A more detailed description of the projects can be found in the README in the project folders itself.
 
 ## Project List
-[Single-Page CV](https://github.com/hrtalina/roadmap.sh-projects/tree/main/frontend-projects/01-cv-letter)
+[Single-Page CV](https://github.com/hrtalina/roadmap.sh-projects/tree/main/frontend-projects/01-cv-letter), [Basic HTML Website](https://github.com/hrtalina/roadmap.sh-projects/tree/main/frontend-projects/02-basic-html-website)
 
 ## Link to Projects
-[Single-Page CV](https://roadmap.sh/projects/single-page-cv)
+[Single-Page CV](https://roadmap.sh/projects/single-page-cv), [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
