@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- SEO Tags -->
+    <meta name="description" content="Basic HTML Website" />
+    <meta name="keywords" content="Web Development, HTML, Frontend, Responsive Design" />
+    <meta name="author" content="Alina" />
+    <title>Contact | Basic HTML Site</title>
+</head>
+    <body>
+        <header>
+            <nav>
+                <a href="index.html">Home</a>
+                <a href="projects.html">Projects</a>
+                <a href="articles.html">Articles</a>
+                <a href="contact.html">Contact</a>
+            </nav>
+        </header>
+        <main>
+            <section class="contact">
+                <h1>Contact me here:</h1>
+                <form action="submitForm.php" method="post">
+                    <label for="name">Name:</label>
+                    <input type="text" name="name" id="name" required>
+                    <label for="email">Email:</label>
+                    <input type="email" name="email" id="email" required>
+                    <label for="message">Message:</label>
+                    <textarea name="message" id="message"></textarea>
+                    <button type="submit">Send Message</button>
+                </form>
+            </section>
+            <section class="copyright">
+                <p>&copy; all rights reserved 2026</p>
+            </section>
+        </main>
+    </body>
+</html>
